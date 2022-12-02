@@ -1,30 +1,26 @@
 ![image](./assets/banner.png)
 
 
-# {Project Name} - MAGNATHON
-Tell us about your project here
+# {Share My Food} - MAGNATHON
+We take the excess food from restaurants and deliver it to the required to increase sustainability and reduce hunger.
 
 ## Team Members
-[1.Team Member 1](enter_github_profile_url)   
-[2.Team Member 2](enter_github_profile_url)   
-[3.Team Member 3](enter_github_profile_url)   
-[4.Team Member 4](enter_github_profile_url)   
+[1.Chris Leo George](enter_github_profile_url)   
+[2.Arjun K](enter_github_profile_url)   
+[3.Sanoof](enter_github_profile_url)   
+[4.Subin Sunil Francis](enter_github_profile_url)   
 
 ## Link to Project
-[Embed the live link of project](live_link)
+[https://chrisleogeorge.wixsite.com/my-site](live_link)
 
 ## How it Works ?
-Explaining the working of project  
-Embed video of project demo
+  Donors can submit the required form and recievers can get to know about the items during booking.
 
 ## Technologies used
-List out tech stacks you have used
-
-## How to configure
-Instructions for setting up project
+Wix
 
 ## How to Run
-Instructions for running
+Click the live link and do as required.
 
 ## Other Links
-Provide any other links ( for eg. Wireframe , UI )
+https://chrisleogeorge.wixsite.com/my-site/blank-3
